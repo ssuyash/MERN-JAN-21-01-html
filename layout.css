@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.header{
+    background:red;
+    height: 75px;
+}
+
+.nav{
+    background: yellow;
+    height: 40px;
+}
+
+.left-body{
+    width: 20%;
+    background: pink;
+    height: 400px;
+    float: left;
+}
+
+
+.center-body{
+    width: 60%;
+    background: green;
+    height: 400px;
+    float: left;
+}    
+.right-body{
+    width: 20%;
+    background: gray;
+    height: 400px;
+    float: left;
+}
+
+.footer{
+    background: gold;
+    height: 50px;
+}
+
+
+.clear-fix{
+    clear:both
+}
+    
